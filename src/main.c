@@ -13,7 +13,7 @@
 #include <math.h>
 #include <stdio.h>
 #include <mlx.h>
-#include "rt.h"
+#include "../includes/rt.h"
 
 #define WIDTH 800
 #define HEIGHT 600
